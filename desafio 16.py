@@ -31,7 +31,7 @@ def computador():
         print('Você acertou!!')
     else:
         print('Você errou!!')
-    print(f'O numero erá: {numero}')
+    print(f'O numero era: {numero}')
 computador()
 
 def velocida():
